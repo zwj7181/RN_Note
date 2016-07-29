@@ -1,5 +1,3 @@
 # RN_Note
 
-  ## react-native的一些注意
-
-  
+## react-native的一些注意
